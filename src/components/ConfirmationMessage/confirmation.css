@@ -1,0 +1,14 @@
+.confirmation{
+    background: #BBC3A4 center no-repeat;
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.confirmation>img{
+     width: 400px;
+     height: 400px;
+     border-radius: 18px;
+}
